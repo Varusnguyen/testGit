@@ -15,4 +15,7 @@ def calfucntion():
 def subtraction():
     print(-2)
     
+
+def plus():
+	print("plus")
     
