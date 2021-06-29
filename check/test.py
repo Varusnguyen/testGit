@@ -19,3 +19,6 @@ def subtraction():
 def plus():
 	print("plus")
     
+
+def get_function():
+	return False
