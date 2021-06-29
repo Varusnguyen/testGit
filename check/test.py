@@ -11,3 +11,8 @@ print("update the code to sserrer")
 
 def calfucntion():
     print(2)
+    
+def subtraction():
+    print(-2)
+    
+    
